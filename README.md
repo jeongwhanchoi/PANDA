@@ -1,6 +1,6 @@
 # :panda_face: PANDA: Expanded Width-Aware Message Passing Beyond Rewiring
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/panda?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/PANDA) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
  [![arXiv](https://img.shields.io/badge/arXiv-2406.03671-b31b1b.svg)](https://arxiv.org/abs/2406.03671) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FPANDA&count_bg=%230D6CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/panda-expanded-width-aware-message-passing/graph-classification-on-imdb-binary)](https://paperswithcode.com/sota/graph-classification-on-imdb-binary?p=panda-expanded-width-aware-message-passing)
