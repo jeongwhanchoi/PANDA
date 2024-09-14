@@ -1,10 +1,22 @@
-# :panda_face: PANDA: Expanded Width-Aware Message Passing Beyond Rewiring
+<div align=center>
+<h1>:panda_face: PANDA: Expanded Width-Aware Message Passing Beyond Rewiring</h1>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/PANDA) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
  [![arXiv](https://img.shields.io/badge/arXiv-2406.03671-b31b1b.svg)](https://arxiv.org/abs/2406.03671) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FPANDA&count_bg=%230D6CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/panda-expanded-width-aware-message-passing/graph-classification-on-imdb-binary)](https://paperswithcode.com/sota/graph-classification-on-imdb-binary?p=panda-expanded-width-aware-message-passing)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/panda-expanded-width-aware-message-passing/graph-classification-on-imdb-binary)](https://paperswithcode.com/sota/graph-classification-on-imdb-binary?p=panda-expanded-width-aware-message-passing) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/panda-expanded-width-aware-message-passing/graph-classification-on-reddit-binary)](https://paperswithcode.com/sota/graph-classification-on-reddit-binary?p=panda-expanded-width-aware-message-passing)
+
+<div>
+      <a href="https://www.jeongwhanchoi.com" target="_blank"><b>Jeongwhan Choi</b></a><sup>1</sup>,
+      <a href="https://suminizz.github.io/" target="_blank">Sumin Park</a><sup>2</sup>,
+    <a href="https://scholar.google.co.kr/citations?user=-foMLcAAAAAJ&hl=en" target="_blank">Hyowon Wi</a><sup>2</sup>,
+    <a href="https://scholar.google.com/citations?user=px5LGgMAAAAJ&hl=en" target="_blank">Sung-Bae Cho</a><sup>1</sup>,
+      <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a><sup>2</sup>,
+    <div>
+    <sup>1</sup>Yonsei University, <sup>2</sup>KAIST
+    </div>
+</div>
+</div>
 
 ## TL;DR
 - **PANDA** is a novel message passing framework that addresses the over-squashing problem in GNNs by selectively expanding node widths without graph rewiring.
