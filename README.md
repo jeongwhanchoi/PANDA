@@ -52,7 +52,7 @@ python run_graph_classification.py --rewiring=panda --dataset={$dataset} --layer
 
 ## Paper
 If the code is helpful for your project, please cite our paper:
-```
+```bibtex
 @inproceedings{
 choi2024panda,
 title={{PANDA}: Expanded Width-Aware Message Passing Beyond Rewiring},
